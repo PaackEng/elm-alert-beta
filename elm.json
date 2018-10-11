@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "PaackEng/elm-alert",
+    "name": "PaackEng/elm-alert-beta",
     "summary": "Bootstrap alert",
     "license": "BSD-3-Clause",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "exposed-modules": [
         "Alert"
     ],
